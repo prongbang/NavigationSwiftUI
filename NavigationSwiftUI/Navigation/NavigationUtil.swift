@@ -7,6 +7,10 @@
 
 import UIKit
 
+/// How to use:
+/// 
+/// NavigationUtil.popToRootView()
+///
 struct NavigationUtil {
     
     static func popToRootView() {
