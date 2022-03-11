@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB34F5CA27DB989C00AB721B /* NavigationUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB34F5C927DB989C00AB721B /* NavigationUtil.swift */; };
 		FB6BEE092710B64000E2D7C8 /* NavigationSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6BEE082710B64000E2D7C8 /* NavigationSwiftUIApp.swift */; };
 		FB6BEE0B2710B64000E2D7C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6BEE0A2710B64000E2D7C8 /* ContentView.swift */; };
 		FB6BEE0D2710B64200E2D7C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB6BEE0C2710B64200E2D7C8 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB34F5C927DB989C00AB721B /* NavigationUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationUtil.swift; sourceTree = "<group>"; };
 		FB6BEE052710B64000E2D7C8 /* NavigationSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6BEE082710B64000E2D7C8 /* NavigationSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationSwiftUIApp.swift; sourceTree = "<group>"; };
 		FB6BEE0A2710B64000E2D7C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				FB6BEE1D2710C22200E2D7C8 /* CustomNavView.swift */,
 				FB6BEE1F2710C3B400E2D7C8 /* CustomNavLink.swift */,
 				FB6BEE212710C74C00E2D7C8 /* CustomNavBarPreferenceKeys.swift */,
+				FB34F5C927DB989C00AB721B /* NavigationUtil.swift */,
 			);
 			path = Navigation;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				FB6BEE092710B64000E2D7C8 /* NavigationSwiftUIApp.swift in Sources */,
 				FB6BEE222710C74C00E2D7C8 /* CustomNavBarPreferenceKeys.swift in Sources */,
 				FB6BEE1E2710C22200E2D7C8 /* CustomNavView.swift in Sources */,
+				FB34F5CA27DB989C00AB721B /* NavigationUtil.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
